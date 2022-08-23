@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import {ref, reactive, computed, toRef} from 'vue'
+import {ref, reactive, computed, toRef, toRefs} from 'vue'
 export default {
   name: 'Demo',
   setup() {
